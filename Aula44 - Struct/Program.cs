@@ -8,7 +8,7 @@ class Program{
 
         c1.info();
 
-        Carro c2 = new Carro("Honda","HRV","Prata");   
+        Carro c2 = new Carro("","HRV","Prata");   
         c2.info();
 
     }
