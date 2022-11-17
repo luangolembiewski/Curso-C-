@@ -21,12 +21,14 @@ class Program{
         Console.WriteLine("Tamanho Fila: {0}",veiculos.Count);
         
 
-        foreach(string s in veiculos){                                          //Exibe todos os itens da lista
+        foreach(string s in veiculos){                                       //Exibe todos os itens da lista
             Console.WriteLine(s);
         }
 
 
         //veiculos.Clear();                                                     //Deleta todos os itens da fila
         Console.WriteLine("Tamanho Fila: {0}",veiculos.Count);
+        
+
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\bin\Debug\Crud.exe.config
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\bin\Debug\Crud.exe
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\bin\Debug\Crud.pdb
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\obj\Debug\Crud.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\obj\Debug\Crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\obj\Debug\Crud.F_Cadastro.resources
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\obj\Debug\Crud.Properties.Resources.resources
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\obj\Debug\Crud.csproj.GenerateResource.cache
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\obj\Debug\Crud.exe
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Praticando\Crud\obj\Debug\Crud.pdb

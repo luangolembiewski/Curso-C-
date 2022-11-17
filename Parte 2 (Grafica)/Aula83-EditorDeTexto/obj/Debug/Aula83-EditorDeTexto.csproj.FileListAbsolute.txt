@@ -1,0 +1,11 @@
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\bin\Debug\Aula83-EditorDeTexto.exe.config
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\bin\Debug\Aula83-EditorDeTexto.exe
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\bin\Debug\Aula83-EditorDeTexto.pdb
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\obj\Debug\Aula83-EditorDeTexto.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\obj\Debug\Aula83-EditorDeTexto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\obj\Debug\Aula83_EditorDeTexto.Form1.resources
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\obj\Debug\Aula83_EditorDeTexto.Properties.Resources.resources
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\obj\Debug\Aula83-EditorDeTexto.csproj.GenerateResource.cache
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\obj\Debug\Aula83-EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\obj\Debug\Aula83-EditorDeTexto.exe
+C:\Users\Luan\Documents\C#\Aulas\Parte 2 (Grafica)\Aula83-EditorDeTexto\obj\Debug\Aula83-EditorDeTexto.pdb
