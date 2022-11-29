@@ -200,5 +200,12 @@ namespace Componentes
             F_Timer f_timer = new F_Timer();
             f_timer.ShowDialog();
         }
+
+
+        private void sQLiteInstalaçãoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_SQLite f_SQLite = new F_SQLite();
+            f_SQLite.ShowDialog();
+        }
     }
 }

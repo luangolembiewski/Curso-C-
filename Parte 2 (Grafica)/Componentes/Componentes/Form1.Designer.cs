@@ -66,6 +66,8 @@
             this.tsmi_restaurar = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmi_mensagem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmi_fechar = new System.Windows.Forms.ToolStripMenuItem();
+            this.sQLiteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sQLiteInstalaçãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.MenuNotificacoes.SuspendLayout();
             this.SuspendLayout();
@@ -102,7 +104,7 @@
             // tb_lista
             // 
             this.tb_lista.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tb_lista.Location = new System.Drawing.Point(12, 127);
+            this.tb_lista.Location = new System.Drawing.Point(15, 127);
             this.tb_lista.Multiline = true;
             this.tb_lista.Name = "tb_lista";
             this.tb_lista.ReadOnly = true;
@@ -143,7 +145,8 @@
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.componentesToolStripMenuItem});
+            this.componentesToolStripMenuItem,
+            this.sQLiteToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(297, 24);
@@ -369,6 +372,21 @@
             this.tsmi_fechar.Size = new System.Drawing.Size(133, 22);
             this.tsmi_fechar.Text = "Fechar";
             // 
+            // sQLiteToolStripMenuItem
+            // 
+            this.sQLiteToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.sQLiteInstalaçãoToolStripMenuItem});
+            this.sQLiteToolStripMenuItem.Name = "sQLiteToolStripMenuItem";
+            this.sQLiteToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
+            this.sQLiteToolStripMenuItem.Text = "SQLite";
+            // 
+            // sQLiteInstalaçãoToolStripMenuItem
+            // 
+            this.sQLiteInstalaçãoToolStripMenuItem.Name = "sQLiteInstalaçãoToolStripMenuItem";
+            this.sQLiteInstalaçãoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.sQLiteInstalaçãoToolStripMenuItem.Text = "SQLite CRUD";
+            this.sQLiteInstalaçãoToolStripMenuItem.Click += new System.EventHandler(this.sQLiteInstalaçãoToolStripMenuItem_Click);
+            // 
             // F_principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -434,6 +452,8 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripContainerToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem backgroundWorkerToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem3;
+        private System.Windows.Forms.ToolStripMenuItem sQLiteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sQLiteInstalaçãoToolStripMenuItem;
     }
 }
 
